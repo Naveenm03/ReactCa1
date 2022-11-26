@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 45px;
+    padding-bottom: 45px;
+   
+  
+    
+   
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.logo{
+  padding-top: 50px;
+  justify-content: center;
+  text-align: center;
+  height: 90vh;
+  width: 70vh;
+  color:white;
+  background-color:black;
+  
+}
+.logon{
+  
+  font-size:xx-large;
+}
+.logint{
+  padding-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.email-n{
+  padding-top: 20px;
+}
+.passw{
+  padding-top: 10px;
+}
+.reset{
+  padding-right: 117px;
+  
+}
+.rem{
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.but{
+     background-color:white;
+}
+.login-but{
+  padding-bottom: 10px;
+}
+hr{
+  
+  width: 400px;
+}
+.signUp{
+  padding-top: 10px;
+  
+}
+.foot{
+  padding-top: 10px;
+}
